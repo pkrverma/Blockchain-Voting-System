@@ -23,3 +23,7 @@ The Blockchain Voting System aims to provide a decentralized, tamper-proof, and 
 - **Candidate Management:** Admins can add candidates dynamically.
 - **Real-time Vote Counting:** Instant and accurate vote count tracking.
 
+## Contract Address
+0x8e1b67216f6A4dAAd3f2ec1C51AF48C5e801c876
+---
+![image](https://github.com/user-attachments/assets/1e18b219-eadf-4017-891e-3c4c281f7f3e)
